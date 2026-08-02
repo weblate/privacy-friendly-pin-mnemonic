@@ -15,7 +15,7 @@
     <string name="help_story_additional">Символы - это всего лишь намёки, вы можете составить любой рассказ, который поможет вам запомнить ПИН.</string>
     <string name="enter_pin">Введите свой 4-значный ПИН:</string>
     <string name="action_about">О приложении</string>
-    <string name="help">Справка</string>
+    <string name="help">Помощь</string>
     <string name="help_permissions_heading">Разрешения</string>
     <string name="about_author">Авторы：</string>
     <string name="about_affiliation">В сотрудничестве с</string>
@@ -25,7 +25,7 @@
     <string name="action_help">Справка</string>
     <string name="about_author_contributors">и другие участники.</string>
     <string name="privacy_friendly">Это одно из приложений группы Уважающих Конфиденциальность Приложений (Privacy Friendly Apps, PFA), разработанных исследовательской группой SECUSO в Технологическом Институте Карлсруэ (KIT). Исходный код доступен по лицензии GPLv3. Авторские права на изображения принадлежат KIT и Google Inc.</string>
-    <string name="about">О приложении</string>
+    <string name="about">О программе</string>
     <string name="confirm_button">Понял</string>
     <string name="app_name">Мнемоники ПИН</string>
     <string name="help_privacy_heading">О конфиденциальности</string>
