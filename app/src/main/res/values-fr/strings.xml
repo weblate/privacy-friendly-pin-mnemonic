@@ -81,6 +81,6 @@
     <!-- ### WELCOME DIALOG ### -->
     <string name="welcome_text">PIN Mnémotechnique Privacy Friendly vous aide à mémoriser votre code PIN à 4 signes. Commencez par entrer votre PIN.</string>
     <string name="welcome">Bienvenue</string>
-    <string name="okay">OK</string>
+    <string name="okay">Okay</string>
     <string name="viewhelp">Voir l\'Aide</string>
 </resources>
