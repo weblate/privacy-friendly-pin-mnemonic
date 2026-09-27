@@ -14,4 +14,5 @@
     <string name="viewhelp">Yardımı Görüntüle</string>
     <string name="action_about">Hakkında</string>
     <string name="welcome">Hoş geldiniz</string>
+    <string name="action_help">Yardım</string>
 </resources>
