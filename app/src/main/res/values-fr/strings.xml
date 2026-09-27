@@ -40,7 +40,7 @@
     <string name="toast_fail">Vous avez entré un mauvais PIN. Veuillez relire les mnémotechniques et réessayer.</string>
     <!-- HelpFragment-->
     <string name="help">Aide</string>
-    <string name="help_overview_heading">Vue d\'ensemble</string>
+    <string name="help_overview_heading">Aperçu</string>
     <string name="help_tip_one">PIN Mnémotechnique Privacy Friendly vous aide à mémoriser votre code PIN à 4 chiffres en présentant jusqu\'à 5 stratégies.</string>
     <string name="help_tip_two">N\'oubliez pas de vous entraîner en entrant votre code PIN plusieurs fois pour le mémoriser.</string>
     <string name="help_tip_three">Si vous utilisez la stratégie du mot, faites attention car la majorité des claviers PIN n\'affichent pas les lettres.</string>
@@ -56,7 +56,7 @@
     <string name="help_privacy_heading">Vie privée</string>
     <string name="help_pin_storage_heading">Stockage du PIN</string>
     <string name="help_pin_storage_description">Votre PIN n\'est ni stocké ni transmis</string>
-    <string name="help_permissions_heading">Permissions</string>
+    <string name="help_permissions_heading">Autorisations</string>
     <string name="help_permissions_description">PIN Mnémotechnique Privacy Friendly n\'utilise aucune permission</string>
     <!-- AboutActivity-->
     <string name="about">À propos</string>
@@ -80,7 +80,7 @@
     <string name="security_reset_okay">OK</string>
     <!-- ### WELCOME DIALOG ### -->
     <string name="welcome_text">PIN Mnémotechnique Privacy Friendly vous aide à mémoriser votre code PIN à 4 signes. Commencez par entrer votre PIN.</string>
-    <string name="welcome">Bienvenue</string>
+    <string name="welcome">Bienvenu</string>
     <string name="okay">Ok</string>
     <string name="viewhelp">Afficher l\'aide</string>
 </resources>
